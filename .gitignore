@@ -34,4 +34,4 @@ build/
 
 
 ### React App ###
-/node_modules/
+**/node_modules
